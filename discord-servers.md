@@ -1,5 +1,7 @@
 ---
 description: 😸Some servers ı'm moderator in Discord
+cover: .gitbook/assets/obamitsu lineart.jpeg
+coverY: 179.3394495412844
 ---
 
 # 😸 Discord Servers
