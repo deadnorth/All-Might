@@ -6,7 +6,7 @@ coverY: 0
 
 # 💻 Software
 
-💻Python, C & Figma (Also ı wanna leaern Photoshop in this year.)&#x20;
+💻Python, C & Figma (Also ı wanna learn Photoshop in this year.)&#x20;
 
 {% embed url="https://github.com/deadnorth" %}
 _GitHub_&#x20;

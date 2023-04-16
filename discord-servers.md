@@ -1,10 +1,12 @@
 ---
-description: 😸Some servers ı'm moderator in Discord
+description: 😸Some servers ı like in Discord
 cover: .gitbook/assets/obamitsu lineart.jpeg
 coverY: 179.3394495412844
 ---
 
 # 😸 Discord Servers
+
+
 
 {% tabs %}
 {% tab title="Discord Geliştirici" %}
