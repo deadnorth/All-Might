@@ -32,4 +32,8 @@ coverY: 108
 {% tab title="PPF.ONE" %}
 [https://ppf.one/sercee](https://ppf.one/sercee)
 {% endtab %}
+
+{% tab title="Pinterest" %}
+[https://pin.it/4VEA4UA](https://pin.it/4VEA4UA)
+{% endtab %}
 {% endtabs %}

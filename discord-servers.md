@@ -1,7 +1,7 @@
 ---
 description: Some servers ı like in Discord
-cover: .gitbook/assets/obamitsu lineart.jpeg
-coverY: 179.3394495412844
+cover: .gitbook/assets/indir (92).jpeg
+coverY: -139
 ---
 
 # 🍀 Discord Servers

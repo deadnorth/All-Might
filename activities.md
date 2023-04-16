@@ -1,7 +1,7 @@
 ---
 description: I love
 cover: .gitbook/assets/one piece manga icons (1).jpeg
-coverY: 109
+coverY: 97
 ---
 
 # 🎊 Activities
