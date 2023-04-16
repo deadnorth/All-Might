@@ -1,7 +1,7 @@
 ---
 description: I enjoy
-cover: .gitbook/assets/one piece manga icons (1).jpeg
-coverY: 97
+cover: .gitbook/assets/Gear 5 Luffy Wallpaper.jpeg
+coverY: -92
 ---
 
 # 🎊 Activities
