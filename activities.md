@@ -1,5 +1,5 @@
 ---
-description: I love
+description: My hobbies are
 cover: .gitbook/assets/one piece manga icons (1).jpeg
 coverY: 97
 ---
