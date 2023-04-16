@@ -25,15 +25,15 @@ coverY: 108
 [https://www.reddit.com/user/sinekmali](https://www.reddit.com/user/sinekmali)
 {% endtab %}
 
+{% tab title="Pinterest" %}
+[https://pin.it/4VEA4UA](https://pin.it/4VEA4UA)
+{% endtab %}
+
 {% tab title="LinkTree" %}
 [https://linktr.ee/sercee](https://linktr.ee/sercee)
 {% endtab %}
 
 {% tab title="PPF.ONE" %}
 [https://ppf.one/sercee](https://ppf.one/sercee)
-{% endtab %}
-
-{% tab title="Pinterest" %}
-[https://pin.it/4VEA4UA](https://pin.it/4VEA4UA)
 {% endtab %}
 {% endtabs %}
