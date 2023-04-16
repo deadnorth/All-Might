@@ -1,7 +1,7 @@
 ---
 description: Hello, ı'm Mehmet Ali!
 cover: .gitbook/assets/obamitsu lineart.jpeg
-coverY: 117
+coverY: 178.94652406417106
 ---
 
 # 👋 Oi!
