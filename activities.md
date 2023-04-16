@@ -1,12 +1,12 @@
 ---
-description: My hobbies are
+description: I enjoy
 cover: .gitbook/assets/one piece manga icons (1).jpeg
 coverY: 97
 ---
 
 # 🎊 Activities
 
-Watching animes, films & series; reading books, novels & comics. Also playing games like VALORANT, Minecraft, Genshin & Hyenas...
+Watching animes, films & series; reading books, novels & comics. Also playing games like VALORANT, Minecraft, Genshin Impact & Hyenas.
 
 
 

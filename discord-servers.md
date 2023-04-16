@@ -37,3 +37,12 @@ coverY: -139
 [https://discord.com/invite/obito](https://discord.com/invite/obito)
 
 </details>
+
+<details>
+
+<summary>DanteGrafi (Dante Tips Genshin)</summary>
+
+[https://discord.gg/dantegrafi](https://discord.gg/dantegrafi)
+
+</details>
+
