@@ -6,6 +6,4 @@ coverY: 91
 
 # 👋 Oi!
 
-👋I'm 16 y.o. junior dev from Turkey.
-
-\
+He/Him, 16 y.o. interested in software and graphic design.&#x20;

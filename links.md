@@ -1,5 +1,5 @@
 ---
-description: 📝Some links about me
+description: Some links about me
 cover: .gitbook/assets/ArtStation - Explore.jpeg
 coverY: 108
 ---

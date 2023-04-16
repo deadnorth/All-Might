@@ -1,27 +1,39 @@
 ---
-description: 😸Some servers ı like in Discord
+description: Some servers ı like in Discord
 cover: .gitbook/assets/obamitsu lineart.jpeg
 coverY: 179.3394495412844
 ---
 
-# 😸 Discord Servers
+# 🍀 Discord Servers
 
+<details>
 
+<summary>Discord Geliştirici</summary>
 
-{% tabs %}
-{% tab title="Discord Geliştirici" %}
 [https://discord.com/invite/twJanZBXpj](https://discord.com/invite/twJanZBXpj)
-{% endtab %}
 
-{% tab title="Disdate" %}
+</details>
+
+<details>
+
+<summary>Disdate</summary>
+
 [https://discord.com/invite/disdate](https://discord.com/invite/disdate)
-{% endtab %}
 
-{% tab title="Skyare" %}
+</details>
+
+<details>
+
+<summary>Skyare</summary>
+
 [https://discord.com/invite/javascript](https://discord.com/invite/javascript)
-{% endtab %}
 
-{% tab title="Anime Alerts" %}
+</details>
+
+<details>
+
+<summary>Anime Alerts</summary>
+
 [https://discord.com/invite/obito](https://discord.com/invite/obito)
-{% endtab %}
-{% endtabs %}
+
+</details>

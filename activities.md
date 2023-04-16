@@ -6,7 +6,7 @@ coverY: 109
 
 # 🎊 Activities
 
-🎊Watching animes, films & series; reading books, novels & comics. Also playing games like VALORANT, Minecraft, Genshin & Hyenas...
+Watching animes, films & series; reading books, novels & comics. Also playing games like VALORANT, Minecraft, Genshin & Hyenas...
 
 
 

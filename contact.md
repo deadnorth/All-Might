@@ -1,5 +1,5 @@
 ---
-description: '📧You can contact me from:'
+description: 'You can contact me from:'
 cover: .gitbook/assets/Chrollo Lucilfer.jpg
 coverY: 31
 ---
