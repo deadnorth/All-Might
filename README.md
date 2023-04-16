@@ -1,7 +1,7 @@
 ---
 description: Hello, ı'm Mehmet Ali!
-cover: .gitbook/assets/obamitsu lineart.jpeg
-coverY: 178.94652406417106
+cover: .gitbook/assets/✁ 𝘔𝘢𝘯𝘨𝘢 𝘐𝘤𝘰𝘯.jpg
+coverY: 92
 ---
 
 # 👋 Oi!
