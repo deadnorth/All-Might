@@ -36,4 +36,8 @@ coverY: 108
 {% tab title="PPF.ONE" %}
 [https://ppf.one/sercee](https://ppf.one/sercee)
 {% endtab %}
+
+{% tab title="solo.to" %}
+[https://solo.to/deadnorth](https://solo.to/deadnorth)
+{% endtab %}
 {% endtabs %}
