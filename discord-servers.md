@@ -40,9 +40,9 @@ coverY: -139
 
 <details>
 
-<summary>DanteGrafi (Dante Tips Genshin)</summary>
+<summary>Soul Society [BETA]</summary>
 
-[https://discord.gg/dantegrafi](https://discord.gg/dantegrafi)
+[https://discord.gg/5rcwgSUNcv](https://discord.gg/5rcwgSUNcv)
 
 </details>
 

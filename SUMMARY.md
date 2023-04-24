@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👋 Oi!](README.md)
-* [👨💻 Software](software.md)
+* [👨💻 Software & Graphic Design](software-and-graphic-design.md)
 * [🎊 Activities](activities.md)
 * [📝 Links](links.md)
 * [📝 More Links](more-links.md)
