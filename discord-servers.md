@@ -18,7 +18,7 @@ coverY: -139
 
 <summary>Disdate</summary>
 
-[https://discord.com/invite/disdate](https://discord.com/invite/disdate)
+[https://discord.gg/invite/moderators](https://discord.gg/moderators)
 
 </details>
 
