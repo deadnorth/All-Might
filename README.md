@@ -7,3 +7,5 @@ coverY: 92
 # 👋 Oi!
 
 Turkey; He/Him, 16 y.o. interested in software and graphic design.
+
+{% embed url="https://sercee.wixsite.com/sercee" fullWidth="false" %}
