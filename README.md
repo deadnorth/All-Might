@@ -8,4 +8,6 @@ coverY: 92
 
 Turkey; He/Him, 16 y.o. interested in software and graphic design.
 
-{% embed url="https://sercee.wixsite.com/sercee" fullWidth="false" %}
+{% embed url="https://sercee.com.tr" %}
+_WebSite_
+{% endembed %}
