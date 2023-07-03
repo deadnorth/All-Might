@@ -2,6 +2,20 @@
 description: 'You can contact me from:'
 cover: .gitbook/assets/Chrollo Lucilfer.jpg
 coverY: 31
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 📧 Contact

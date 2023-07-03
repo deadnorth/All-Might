@@ -2,6 +2,20 @@
 description: Some links about me
 cover: .gitbook/assets/ArtStation - Explore.jpeg
 coverY: 108
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 📝 Links

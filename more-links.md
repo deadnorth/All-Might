@@ -2,6 +2,20 @@
 description: More links about me.
 cover: .gitbook/assets/Kurapika Kurta ⛓️❤️💛.jpeg
 coverY: -86
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 📝 More Links
@@ -14,7 +28,7 @@ coverY: -86
 {% endtab %}
 
 {% tab title="LinkTree" %}
-[https://linktr.ee/sercee](https://linktr.ee/sercee)
+[https://linktr.ee/thegoldenwind](https://linktr.ee/thegoldenwind)
 {% endtab %}
 
 {% tab title="PPF.ONE" %}

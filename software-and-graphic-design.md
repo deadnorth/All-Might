@@ -2,6 +2,20 @@
 description: I'm learning/using
 cover: .gitbook/assets/TurkAnime-Snapshot-1681119195612.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 👨💻 Software & Graphic Design

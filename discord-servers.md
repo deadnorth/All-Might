@@ -2,6 +2,20 @@
 description: Some servers ı like in Discord
 cover: .gitbook/assets/indir (92).jpeg
 coverY: -139
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🍀 Discord Servers

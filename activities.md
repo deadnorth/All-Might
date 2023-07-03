@@ -2,6 +2,20 @@
 description: I enjoy
 cover: .gitbook/assets/Gear 5 Luffy Wallpaper.jpeg
 coverY: -92
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🎊 Activities
