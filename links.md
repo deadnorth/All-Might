@@ -24,11 +24,11 @@ layout:
 
 {% tabs %}
 {% tab title="Instagram" %}
-[https://www.instagram.com/sercee.xyz/](https://www.instagram.com/sercee.xyz/)
+[https://www.instagram.com/numberoneichigo/](https://www.instagram.com/numberoneichigo/)
 {% endtab %}
 
 {% tab title="Twitter" %}
-[https://twitter.com/sercee\_0](https://twitter.com/sercee\_0)
+[https://twitter.com/numberoneichigo](https://twitter.com/numberoneichigo)
 {% endtab %}
 
 {% tab title="TikTok" %}
