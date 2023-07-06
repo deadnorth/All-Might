@@ -32,7 +32,7 @@ layout:
 
 <summary>Disney Türkiye</summary>
 
-https://discord.com/invite/disneytr
+[https://discord.com/invite/disneytr](https://discord.gg/disneytr)
 
 </details>
 
@@ -40,7 +40,7 @@ https://discord.com/invite/disneytr
 
 <summary>Skyare</summary>
 
-[https://discord.com/invite/javascript](https://discord.com/invite/javascript)
+[https://discord.gg/javascript](https://discord.gg/javascript)
 
 </details>
 
@@ -48,7 +48,7 @@ https://discord.com/invite/disneytr
 
 <summary>YumCord</summary>
 
-[https://discord.com/invite/y](https://discord.com/invite/obito)umyum
+[https://discord.gg/yumyum](https://discord.gg/yumyum)
 
 </details>
 
