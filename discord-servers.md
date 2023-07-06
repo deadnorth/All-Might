@@ -30,9 +30,9 @@ layout:
 
 <details>
 
-<summary>Disdate</summary>
+<summary>Disney Türkiye</summary>
 
-[https://discord.gg/invite/moderators](https://discord.gg/moderators)
+https://discord.com/invite/disneytr
 
 </details>
 
@@ -46,17 +46,9 @@ layout:
 
 <details>
 
-<summary>Anime Alerts</summary>
+<summary>YumCord</summary>
 
-[https://discord.com/invite/obito](https://discord.com/invite/obito)
-
-</details>
-
-<details>
-
-<summary>Soul Society [BETA]</summary>
-
-[https://discord.gg/5rcwgSUNcv](https://discord.gg/5rcwgSUNcv)
+[https://discord.com/invite/y](https://discord.com/invite/obito)umyum
 
 </details>
 
